@@ -73,10 +73,10 @@ README.md
 ## Screenshots of UI
 
 ### Dashboard Page
-![Dashboard Screenshot](/TripPlanner/screenshots/dashboard.png)
+![Dashboard Screenshot](/screenshots/dashboard.png)
 
 ### Add Trip Form
-![Add Trip Screenshot](/TripPlanner/screenshots/addTrip.png)
+![Add Trip Screenshot](/screenshots/addTrip.png)
 
 ---
 
